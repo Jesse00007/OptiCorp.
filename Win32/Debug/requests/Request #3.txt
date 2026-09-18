@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Priya Naidoo.
+Application type: Dispatcher
+======================
+Name:         Priya
+Surname:      Naidoo
+City:         Durban
+Role:         Dispatcher
+
+Past experience:
+  2 years as last-mile delivery coordinator at Aramex Durban branch.
+======================
+Suggested Username: pri_naidoo
+Suggested Password: Pr!yaN@id00
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

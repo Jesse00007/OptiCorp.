@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Lacoste
+======================
+Brand Name:     Lacoste
+Brand ID:       LAC
+Contact Email:  warehouse@lacoste.co.za
+Requested City: To be determined
+
+Notes:
+  Sports-luxury crossover. Interested in Dijkstra multi-stop routing.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

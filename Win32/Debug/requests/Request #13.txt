@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Rajesh Govender.
+Application type: Dispatcher
+======================
+Name:         Rajesh
+Surname:      Govender
+City:         Durban
+Role:         Dispatcher
+
+Past experience:
+  4 years at FedEx Durban. Specialised in same-day delivery scheduling.
+======================
+Suggested Username: raj_govender
+Suggested Password: R@j3shG0v!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

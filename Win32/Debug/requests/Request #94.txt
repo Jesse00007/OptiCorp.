@@ -1,0 +1,18 @@
+Request incoming
+======================
+Emergency: Critical inventory shortage.
+Multiple items simultaneously out of stock.
+======================
+Out of Stock Items:
+  1. SHU-BLU-PUM-01 - Suede Classic Sneakers  (Puma)
+  2. BOT-BLK-LVS-02 - Slim Tapered Jeans      (Levi's)
+  3. BOT-BLU-NIK-03 - Pro Compression Tights  (Nike)
+
+Total unfulfilled orders affected: 7
+Estimated revenue loss if unresolved: R14,247.00
+
+Recommendation:
+  Bulk restock all three simultaneously to
+  reduce warehouse processing overhead.
+======================
+ACTION REQUIRED: Approve bulk restock or handle individually

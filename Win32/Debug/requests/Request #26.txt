@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Ralph Lauren
+======================
+Brand Name:     Ralph Lauren
+Brand ID:       RLN
+Contact Email:  logistics@ralphlauren.com
+Requested City: To be determined
+
+Notes:
+  Luxury-tier brand. Requires white-glove delivery handling.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

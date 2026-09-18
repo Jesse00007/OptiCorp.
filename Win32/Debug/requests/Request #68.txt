@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-TRK-01
+======================
+Vehicle ID:       VEH-TRK-01
+Registration:     GP 334-111
+Vehicle Type:     Medium Box Truck
+Current Status:   Available
+Requested Status: On Route
+
+Reason:
+  Dispatcher dsp_gauteng1 requesting dispatch clearance for 4-stop JHB route (ORD-2026-02, 16, 26, 28).
+======================
+ACTION REQUIRED: Approve status change or Reject request

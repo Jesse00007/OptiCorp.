@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Trail Running T-Shirt
+======================
+Item ID:          TOP-GRN-NFB-03
+Brand:            The North Face (NFB)
+Current Stock:    40
+Requested Stock:  200
+Unit Price:       R650.00
+
+Reason:
+  High demand from active consumers. Multiple repeat purchases detected.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

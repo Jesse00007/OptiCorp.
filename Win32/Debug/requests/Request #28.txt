@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: New Balance
+======================
+Brand Name:     New Balance
+Brand ID:       NBL
+Contact Email:  routes@newbalance.com
+Requested City: To be determined
+
+Notes:
+  Performance footwear. High volume, low-formality items.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

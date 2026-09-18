@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Werner Botha.
+Application type: Dispatcher
+======================
+Name:         Werner
+Surname:      Botha
+City:         Johannesburg
+Role:         Dispatcher
+
+Past experience:
+  6 years at Imperial Logistics. Managed multi-stop routes across Gauteng.
+======================
+Suggested Username: wer_botha
+Suggested Password: W3rner@B0!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

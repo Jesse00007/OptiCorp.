@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Nuptse Puffer Jacket
+======================
+Item ID:          OUT-BLK-NFB-01
+Brand:            The North Face (NFB)
+Current Stock:    12
+Requested Stock:  150
+Unit Price:       R6,500.00
+
+Reason:
+  Seasonal spike predicted. Current stock insufficient for May–June demand.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

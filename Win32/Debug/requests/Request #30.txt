@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Converse
+======================
+Brand Name:     Converse
+Brand ID:       CNV
+Contact Email:  supply@converse.com
+Requested City: To be determined
+
+Notes:
+  Casual footwear. High SKU variety, consistent demand.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

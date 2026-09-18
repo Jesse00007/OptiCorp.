@@ -1,0 +1,20 @@
+Request incoming
+======================
+New inventory item submission.
+Brand: Polo (PLO)
+======================
+Item ID:         OUT-NVY-PLO-03
+Item Name:       Quilted Gilet
+Category:        Outerwear
+Color Family:    Navy
+Price:           R2,200.00
+Starting Stock:  40
+Weight (kg):     0.6
+Volume (L):      4
+Warmth Rating:   6/10
+Formality Score: 7/10
+
+Notes:
+  Smart-casual outerwear addition to Polo range.
+======================
+ACTION REQUIRED: Add item to tblInventory or Decline submission

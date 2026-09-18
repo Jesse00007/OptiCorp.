@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-BIK-01
+======================
+Vehicle ID:       VEH-BIK-01
+Registration:     CA 123-456
+Vehicle Type:     Delivery Scooter
+Current Status:   Available
+Requested Status: Maintenance
+
+Reason:
+  Rear brake pad worn below safe limit during pre-dispatch inspection. Must be serviced before next run.
+======================
+ACTION REQUIRED: Approve status change or Reject request

@@ -1,0 +1,17 @@
+Request incoming
+======================
+New warehouse registration request.
+Brand: Lacoste (LAC)
+======================
+Warehouse Name:   LAC DBN Coastal Depot
+Linked Brand:     Lacoste (LAC)
+City:             Durban
+X Coordinate:     800
+Y Coordinate:     180
+
+Notes:
+  Eastern coastal node. Serves DBN and PLZ.
+  Warehouse becomes active upon brand approval.
+  Coordinates will be added to Dijkstra routing grid.
+======================
+ACTION REQUIRED: Register warehouse or Decline request

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-17
+======================
+Order ID:     ORD-2026-17
+Customer:     t_mokoena (CON-104-JHB)
+Item:         Velvet Loafers (SHU-RED-GUC-01)
+Order Date:   20/02/2026
+Status:       On Route
+
+Issue:
+  R12,500 Gucci order On Route for 19 days. No delivery confirmation. Consumer very dissatisfied.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

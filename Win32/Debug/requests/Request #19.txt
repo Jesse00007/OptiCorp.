@@ -1,0 +1,17 @@
+Request incoming
+======================
+Budget deposit verification request.
+User: j.smith_88
+======================
+Username:     j.smith_88
+Full Name:    Jason Smith
+UserID:       CON-101-CPT
+City:         Cape Town
+Current Balance: R4500.00
+
+Claim:
+  Consumer claims deposit of R3000.00 made
+  on 18/02/2026 has not reflected on account.
+  Reference: EFT-CPT-2026-0248
+======================
+ACTION REQUIRED: Verify deposit and update Budget field

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Price adjustment request submitted.
+Item: Nuptse Puffer Jacket
+======================
+Item ID:       OUT-BLK-NFB-01
+Brand:         The North Face
+Current Price: R6,500.00
+New Price:     R6,999.00
+Change:        R499.00 increase
+
+Reason:
+  Winter season price revision. NFB standard seasonal markup applied.
+======================
+ACTION REQUIRED: Approve or Reject price change

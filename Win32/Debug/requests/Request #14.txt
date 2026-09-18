@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Anele Mabunda.
+Application type: Dispatcher
+======================
+Name:         Anele
+Surname:      Mabunda
+City:         Cape Town
+Role:         Dispatcher
+
+Past experience:
+  2 years at Yuppiechef fulfilment centre as picking and packing supervisor.
+======================
+Suggested Username: ane_mabunda
+Suggested Password: An3le#M@b!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

@@ -1,0 +1,19 @@
+Request incoming
+======================
+Brand contract review: Gucci (GUC)
+======================
+Brand Name:    Gucci
+Brand ID:      GUC
+Contact Email: operations@gucci.com
+
+Issue:
+  Gucci representative reports 3 high-value items
+  have had stock levels drop to critically low:
+    - SHU-RED-GUC-01 (Velvet Loafers):       2 units
+    - OUT-BRN-GUC-01 (Monogram Trench Coat): 1 unit
+    - TOP-PNK-GUC-01 (Silk Floral Button-Up): 5 units
+
+  Gucci requesting urgent restock across all 3 items
+  and a review of their warehouse (WH-GUC-01) capacity.
+======================
+ACTION REQUIRED: Initiate restock and warehouse review

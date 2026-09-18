@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Monogram Trench Coat
+======================
+Item ID:          OUT-BRN-GUC-01
+Brand:            Gucci (GUC)
+Current Stock:    1
+Requested Stock:  30
+Unit Price:       R35,000.00
+
+Reason:
+  Only 1 unit remaining. Flagship item — restock urgently recommended.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

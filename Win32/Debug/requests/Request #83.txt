@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-14
+======================
+Order ID:     ORD-2026-14
+Customer:     l_phiri (CON-109-NLP)
+Item:         Lightweight Poncho (OUT-GRN-OPT-04)
+Order Date:   21/02/2026
+Status:       Pending
+
+Issue:
+  Quantity 5 order but consumer budget is R0.00. Order cannot be fulfilled. Awaiting resolution.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

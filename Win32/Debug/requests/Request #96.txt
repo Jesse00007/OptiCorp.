@@ -1,0 +1,20 @@
+Request incoming
+======================
+Admin account creation request.
+Submitted by: admin_nzo (ADM-002-PTA)
+======================
+Requested Role:  Admin
+Name:            Dineo
+Surname:         Mahlangu
+City:            Johannesburg
+Department:      Operations Manager
+
+Motivation:
+  Current admin team (2 admins) is insufficient
+  for growing request volume. Dineo will oversee
+  JHB and PTA operations exclusively.
+
+Suggested Username: din_mahlangu
+Suggested Password: D!n30Mhl@ng
+======================
+ACTION REQUIRED: Create admin account or Reject

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Price adjustment request submitted.
+Item: 501 Original Jeans
+======================
+Item ID:       BOT-BLU-LVS-01
+Brand:         Levi's
+Current Price: R999.00
+New Price:     R1,099.00
+Change:        R100.00 increase
+
+Reason:
+  Raw denim import tariffs increased. Levi's adjusting SA pricing accordingly.
+======================
+ACTION REQUIRED: Approve or Reject price change

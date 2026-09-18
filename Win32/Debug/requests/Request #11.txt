@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Sibusiso Mthembu.
+Application type: Dispatcher
+======================
+Name:         Sibusiso
+Surname:      Mthembu
+City:         Johannesburg
+Role:         Dispatcher
+
+Past experience:
+  3 years at MDS Logistics as route planner. Tech-savvy with strong Excel skills.
+======================
+Suggested Username: sib_mthembu
+Suggested Password: S!bus!s0M#
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

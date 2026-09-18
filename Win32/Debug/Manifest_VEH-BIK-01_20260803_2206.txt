@@ -1,0 +1,32 @@
+=================================================
+      OPTICORP OFFICIAL DISPATCH MANIFEST
+=================================================
+Vehicle    : VEH-BIK-01
+Date       : 2026/08/03 22:06
+Origin     : WH-OPT-HQ (National Hub)
+Total load : 5,10 kg / 56,00 l
+Distance   : 1920,6 km
+-------------------------------------------------
+
+STOP 1: WH-URB-01
+   *** STOCK RUN - no deliveries at this depot ***
+   Collect 50 units of brand URB
+
+STOP 2: WH-TIM-01
+   *** STOCK RUN - no deliveries at this depot ***
+   Collect 50 units of brand TIM
+
+STOP 3: WH-PLO-01
+   *** STOCK RUN - no deliveries at this depot ***
+   Collect 50 units of brand PLO
+
+STOP 4: WH-NFB-01
+   *** STOCK RUN - no deliveries at this depot ***
+   Collect 50 units of brand NFB
+
+STOP 5: WH-ZAR-01
+   ORD-2026-062  x2  Heavyweight Work Tee  (Cape Town)
+
+-------------------------------------------------
+Orders on board : 3
+=================================================

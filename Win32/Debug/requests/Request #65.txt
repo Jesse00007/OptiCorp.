@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-BIK-02
+======================
+Vehicle ID:       VEH-BIK-02
+Registration:     GP 987-654
+Vehicle Type:     Delivery Scooter
+Current Status:   On Route
+Requested Status: Available
+
+Reason:
+  Dispatcher dsp_gauteng2 confirms all deliveries completed. Vehicle returning to depot.
+======================
+ACTION REQUIRED: Approve status change or Reject request

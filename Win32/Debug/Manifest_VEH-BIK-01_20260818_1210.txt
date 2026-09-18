@@ -1,0 +1,31 @@
+=================================================
+      OPTICORP OFFICIAL DISPATCH MANIFEST
+=================================================
+Vehicle    : VEH-BIK-01
+Date       : 2026/08/18 12:10
+Origin     : WH-OPT-HQ (National Hub)
+Total load : 3.85 kg / 31.00 l
+Distance   : 1920.6 km
+-------------------------------------------------
+
+STOP 1: WH-URB-01
+   ORD-2026-096  x2  Striped Long Sleeve  (Bloemfontein)
+
+STOP 2: WH-TIM-01
+   *** STOCK RUN - no deliveries at this depot ***
+   Collect 50 units of brand TIM
+
+STOP 3: WH-PLO-01
+   ORD-2026-162  x2  Denim Shorts  (Durban)
+
+STOP 4: WH-NFB-01
+   ORD-2026-190  x1  Classic Slip-Ons  (Nelspruit)
+   ORD-2026-197  x2  Essential Cotton Tee  (Nelspruit)
+
+STOP 5: WH-ZAR-01
+   *** STOCK RUN - no deliveries at this depot ***
+   Collect 50 units of brand ZAR
+
+-------------------------------------------------
+Orders on board : 7
+=================================================

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-02
+======================
+Order ID:     ORD-2026-02
+Customer:     chloe.v (CON-103-BFN)
+Item:         Nuptse Puffer Jacket (OUT-BLK-NFB-01)
+Order Date:   18/02/2026
+Status:       On Route
+
+Issue:
+  Order On Route for 21 days. Consumer reports no delivery received. Possible route issue.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

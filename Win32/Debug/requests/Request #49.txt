@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Corduroy Trousers
+======================
+Item ID:          BOT-BRN-URB-06
+Brand:            UrbanWear (URB)
+Current Stock:    15
+Requested Stock:  100
+Unit Price:       R600.00
+
+Reason:
+  Winter crossover item. Restock recommended alongside other cold-weather lines.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

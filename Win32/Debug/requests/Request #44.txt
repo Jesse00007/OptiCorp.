@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Anti-Slip Work Boots
+======================
+Item ID:          SHU-BLK-OPT-01
+Brand:            OptiCorp Basics (OPT)
+Current Stock:    25
+Requested Stock:  150
+Unit Price:       R950.00
+
+Reason:
+  12 units already pending in ORD-2026-29. Net available stock is 13.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

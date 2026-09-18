@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-TRK-02
+======================
+Vehicle ID:       VEH-TRK-02
+Registration:     CA 777-222
+Vehicle Type:     Medium Box Truck
+Current Status:   Available
+Requested Status: On Route
+
+Reason:
+  Dispatcher dsp_cape requesting dispatch for Cape Town 3-stop route (ORD-2026-06, 23, 25).
+======================
+ACTION REQUIRED: Approve status change or Reject request

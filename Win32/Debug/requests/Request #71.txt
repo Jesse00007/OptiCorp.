@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-BIK-02
+======================
+Vehicle ID:       VEH-BIK-02
+Registration:     GP 987-654
+Vehicle Type:     Delivery Scooter
+Current Status:   On Route
+Requested Status: Maintenance
+
+Reason:
+  Scooter involved in minor collision at delivery point. No injuries. Damage to front fairing. Needs panel repair.
+======================
+ACTION REQUIRED: Approve status change or Reject request

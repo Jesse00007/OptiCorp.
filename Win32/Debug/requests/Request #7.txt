@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Lerato Sithole.
+Application type: Dispatcher
+======================
+Name:         Lerato
+Surname:      Sithole
+City:         Pretoria
+Role:         Dispatcher
+
+Past experience:
+  2 years dispatch assistant at PostNet Centurion. Willing to relocate.
+======================
+Suggested Username: ler_sithole
+Suggested Password: L3r@toS!th
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-12
+======================
+Order ID:     ORD-2026-12
+Customer:     z.abrahams (CON-106-CPT)
+Item:         Classic Slip-Ons (SHU-WHT-VNS-02)
+Order Date:   20/02/2026
+Status:       On Route
+
+Issue:
+  Consumer reports item received was wrong colour. Received Black, ordered White. Possible warehouse pick error.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

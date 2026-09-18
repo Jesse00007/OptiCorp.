@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-BIK-01
+======================
+Vehicle ID:       VEH-BIK-01
+Registration:     CA 123-456
+Vehicle Type:     Delivery Scooter
+Current Status:   Maintenance
+Requested Status: Available
+
+Reason:
+  Brake service completed. Safety check passed. Scooter cleared to return to active fleet.
+======================
+ACTION REQUIRED: Approve status change or Reject request

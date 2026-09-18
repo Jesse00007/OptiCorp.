@@ -1,0 +1,20 @@
+Request incoming
+======================
+New inventory item submission.
+Brand: Nike (NIK)
+======================
+Item ID:         TOP-BLK-NIK-04
+Item Name:       Dri-FIT Training Tee
+Category:        Top
+Color Family:    Black
+Price:           R799.00
+Starting Stock:  100
+Weight (kg):     0.2
+Volume (L):      1
+Warmth Rating:   2/10
+Formality Score: 1/10
+
+Notes:
+  Performance training shirt. Complements existing NIK line.
+======================
+ACTION REQUIRED: Add item to tblInventory or Decline submission

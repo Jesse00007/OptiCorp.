@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Gaton Meyers.
+Application type: Dispatcher
+======================
+Name:         Gaton
+Surname:      Meyers
+City:         Pretoria
+Role:         Dispatcher
+
+Past experience:
+  3 years logistics coordination at DHL. Familiar with route planning software.
+======================
+Suggested Username: gat_meyers
+Suggested Password: G@t0nM3y!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

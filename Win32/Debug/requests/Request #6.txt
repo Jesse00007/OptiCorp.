@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Marco Ferreira.
+Application type: Dispatcher
+======================
+Name:         Marco
+Surname:      Ferreira
+City:         Cape Town
+Role:         Dispatcher
+
+Past experience:
+  3 years with Checkers Distribution. Handled Cape Metro deliveries.
+======================
+Suggested Username: mar_ferreira
+Suggested Password: M@rc0F3rr!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Themba Dlamini.
+Application type: Dispatcher
+======================
+Name:         Themba
+Surname:      Dlamini
+City:         Johannesburg
+Role:         Dispatcher
+
+Past experience:
+  Former warehouse supervisor at Takealot for 4 years. Managed 12-vehicle fleet.
+======================
+Suggested Username: the_dlamini
+Suggested Password: Th3mba#Dlm!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

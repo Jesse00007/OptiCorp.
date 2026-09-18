@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Yusuf Davids.
+Application type: Dispatcher
+======================
+Name:         Yusuf
+Surname:      Davids
+City:         Cape Town
+Role:         Dispatcher
+
+Past experience:
+  Freelance courier for 4 years. Self-managed 200+ deliveries per month.
+======================
+Suggested Username: yus_davids
+Suggested Password: Yus0f#D@v!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

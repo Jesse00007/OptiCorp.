@@ -1,0 +1,15 @@
+Request incoming
+======================
+Price adjustment request submitted.
+Item: Velvet Loafers
+======================
+Item ID:       SHU-RED-GUC-01
+Brand:         Gucci
+Current Price: R12,500.00
+New Price:     R13,900.00
+Change:        R1,400.00 increase
+
+Reason:
+  Luxury goods inflation adjustment. Euro-ZAR exchange rate impact.
+======================
+ACTION REQUIRED: Approve or Reject price change

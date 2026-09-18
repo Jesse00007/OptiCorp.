@@ -1,0 +1,17 @@
+Request incoming
+======================
+New warehouse registration request.
+Brand: H&M (HNM)
+======================
+Warehouse Name:   HNM CPT Mega Store Hub
+Linked Brand:     H&M (HNM)
+City:             Cape Town
+X Coordinate:     120
+Y Coordinate:     870
+
+Notes:
+  Adjacent to WH-LVS-01. High volume expected.
+  Warehouse becomes active upon brand approval.
+  Coordinates will be added to Dijkstra routing grid.
+======================
+ACTION REQUIRED: Register warehouse or Decline request

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-03
+======================
+Order ID:     ORD-2026-03
+Customer:     t_mokoena (CON-104-JHB)
+Item:         Retro Track Jacket (TOP-YLW-ADI-01)
+Order Date:   20/02/2026
+Status:       On Route
+
+Issue:
+  On Route for 19 days via VEH-BIK-01. Consumer reports package not arrived.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

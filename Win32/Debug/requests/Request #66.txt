@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-HVR-01
+======================
+Vehicle ID:       VEH-HVR-01
+Registration:     GP 555-888
+Vehicle Type:     Heavy Freight Rig
+Current Status:   On Route
+Requested Status: Maintenance
+
+Reason:
+  Driver reported engine warning light during transit. Vehicle diverted to depot. Requires inspection.
+======================
+ACTION REQUIRED: Approve status change or Reject request

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-04
+======================
+Order ID:     ORD-2026-04
+Customer:     l_phiri (CON-109-NLP)
+Item:         Stan Smith Classics (SHU-WHT-ADI-01)
+Order Date:   21/02/2026
+Status:       Pending
+
+Issue:
+  Order has been Pending for 18 days with no vehicle assigned. Consumer requesting update.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

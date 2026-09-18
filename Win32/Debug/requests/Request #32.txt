@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Diesel
+======================
+Brand Name:     Diesel
+Brand ID:       DSL
+Contact Email:  freight@diesel.com
+Requested City: To be determined
+
+Notes:
+  Premium denim brand. Requesting integration of seasonal collections.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

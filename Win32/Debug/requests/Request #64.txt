@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-VAN-02
+======================
+Vehicle ID:       VEH-VAN-02
+Registration:     CJ 112-999
+Vehicle Type:     Sprinter Panel Van
+Current Status:   Maintenance
+Requested Status: Available
+
+Reason:
+  Scheduled maintenance complete. Vehicle cleared by mechanic. Ready to return to fleet.
+======================
+ACTION REQUIRED: Approve status change or Reject request

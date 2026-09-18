@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-22
+======================
+Order ID:     ORD-2026-22
+Customer:     l_phiri (CON-109-NLP)
+Item:         Striped Rugby Shirt (TOP-RED-PLO-02)
+Order Date:   21/02/2026
+Status:       Pending
+
+Issue:
+  Quantity 2. Consumer has R0.00 balance — order cannot proceed. Requires admin intervention.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

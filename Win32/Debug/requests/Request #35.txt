@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Pro Compression Tights
+======================
+Item ID:          BOT-BLU-NIK-03
+Brand:            Nike (NIK)
+Current Stock:    0
+Requested Stock:  150
+Unit Price:       R850.00
+
+Reason:
+  Item out of stock. Popular with fitness-focused consumers.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

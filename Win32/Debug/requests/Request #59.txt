@@ -1,0 +1,20 @@
+Request incoming
+======================
+New inventory item submission.
+Brand: Adidas (ADI)
+======================
+Item ID:         SHU-BLK-ADI-05
+Item Name:       Ultraboost 23
+Category:        Shoes
+Color Family:    Black
+Price:           R3,200.00
+Starting Stock:  50
+Weight (kg):     0.85
+Volume (L):      6
+Warmth Rating:   5/10
+Formality Score: 3/10
+
+Notes:
+  New flagship running shoe. High consumer interest.
+======================
+ACTION REQUIRED: Add item to tblInventory or Decline submission

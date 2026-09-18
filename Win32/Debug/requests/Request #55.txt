@@ -1,0 +1,15 @@
+Request incoming
+======================
+Price adjustment request submitted.
+Item: Classic Oxford Shirt
+======================
+Item ID:       TOP-WHT-PLO-01
+Brand:         Polo
+Current Price: R1,500.00
+New Price:     R1,650.00
+Change:        R150.00 increase
+
+Reason:
+  Fabric sourcing costs increased. Polo adjusting formal wear range.
+======================
+ACTION REQUIRED: Approve or Reject price change

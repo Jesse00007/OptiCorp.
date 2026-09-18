@@ -1,0 +1,17 @@
+Request incoming
+======================
+New warehouse registration request.
+Brand: New Balance (NBL)
+======================
+Warehouse Name:   NBL JHB Eastrand Hub
+Linked Brand:     New Balance (NBL)
+City:             Johannesburg
+X Coordinate:     520
+Y Coordinate:     510
+
+Notes:
+  Near WH-ADI-01. Shared loading zone.
+  Warehouse becomes active upon brand approval.
+  Coordinates will be added to Dijkstra routing grid.
+======================
+ACTION REQUIRED: Register warehouse or Decline request

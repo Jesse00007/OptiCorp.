@@ -1,0 +1,17 @@
+Request incoming
+======================
+New warehouse registration request.
+Brand: Under Armour (UAR)
+======================
+Warehouse Name:   UAR PTA Performance Centre
+Linked Brand:     Under Armour (UAR)
+City:             Pretoria
+X Coordinate:     490
+Y Coordinate:     520
+
+Notes:
+  Adjacent to WH-NIK-01. Sports brands cluster.
+  Warehouse becomes active upon brand approval.
+  Coordinates will be added to Dijkstra routing grid.
+======================
+ACTION REQUIRED: Register warehouse or Decline request

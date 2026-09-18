@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Tommy Hilfiger
+======================
+Brand Name:     Tommy Hilfiger
+Brand ID:       TOM
+Contact Email:  freight@tommy.com
+Requested City: To be determined
+
+Notes:
+  Premium American brand. Wants Gauteng-based distribution access.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

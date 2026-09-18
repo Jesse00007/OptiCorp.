@@ -1,0 +1,20 @@
+Request incoming
+======================
+New inventory item submission.
+Brand: Zara (ZAR)
+======================
+Item ID:         BOT-BLK-ZAR-07
+Item Name:       High-Waist Tailored Pants
+Category:        Bottom
+Color Family:    Black
+Price:           R1,299.00
+Starting Stock:  60
+Weight (kg):     0.4
+Volume (L):      2
+Warmth Rating:   5/10
+Formality Score: 8/10
+
+Notes:
+  Autumn/Winter new release. High formality score.
+======================
+ACTION REQUIRED: Add item to tblInventory or Decline submission

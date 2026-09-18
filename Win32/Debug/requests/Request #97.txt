@@ -1,0 +1,18 @@
+Request incoming
+======================
+Password reset request.
+User: d.naidoo
+======================
+Username:     d.naidoo
+Full Name:    Devan Naidoo
+UserID:       CON-108-DBN
+City:         Durban
+Role:         Consumer
+
+Issue:
+  Consumer locked out of account after 5 failed
+  login attempts. Requesting admin password reset.
+
+Suggested New Password: D3v@nN_Reset!
+======================
+ACTION REQUIRED: Reset password in tblUsers or Decline

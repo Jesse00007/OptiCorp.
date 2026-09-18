@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Ribbed Turtleneck
+======================
+Item ID:          TOP-BLK-ZAR-05
+Brand:            Zara (ZAR)
+Current Stock:    40
+Requested Stock:  200
+Unit Price:       R599.00
+
+Reason:
+  Fast-moving item. Recommend stock increase to 200 units for winter.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

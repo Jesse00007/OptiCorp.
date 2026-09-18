@@ -1,0 +1,15 @@
+Request incoming
+======================
+Price adjustment request submitted.
+Item: Ribbed Turtleneck
+======================
+Item ID:       TOP-BLK-ZAR-05
+Brand:         Zara
+Current Price: R599.00
+New Price:     R649.00
+Change:        R50.00 increase
+
+Reason:
+  Cotton thread cost increase of 12%. Zara adjusting all knitwear lines.
+======================
+ACTION REQUIRED: Approve or Reject price change

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Slim Tapered Jeans
+======================
+Item ID:          BOT-BLK-LVS-02
+Brand:            Levi's (LVS)
+Current Stock:    0
+Requested Stock:  150
+Unit Price:       R1,100.00
+
+Reason:
+  Item out of stock. High demand in Gauteng region.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

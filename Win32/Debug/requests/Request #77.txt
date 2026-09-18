@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-06
+======================
+Order ID:     ORD-2026-06
+Customer:     sarah_j9 (CON-105-PLZ)
+Item:         Monogram Trench Coat (OUT-BRN-GUC-01)
+Order Date:   21/02/2026
+Status:       Pending
+
+Issue:
+  R35,000 order has been Pending for 18 days. High-value consumer requesting priority dispatch.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

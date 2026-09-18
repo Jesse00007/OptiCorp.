@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-VAN-02
+======================
+Vehicle ID:       VEH-VAN-02
+Registration:     CJ 112-999
+Vehicle Type:     Sprinter Panel Van
+Current Status:   Maintenance
+Requested Status: On Route
+
+Reason:
+  Dispatcher dsp_cape requesting urgent deployment of VAN-02 for overflow CPT deliveries.
+======================
+ACTION REQUIRED: Approve status change or Reject request

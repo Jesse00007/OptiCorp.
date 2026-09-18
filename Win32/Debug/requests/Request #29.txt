@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Under Armour
+======================
+Brand Name:     Under Armour
+Brand ID:       UAR
+Contact Email:  freight@underarmour.com
+Requested City: To be determined
+
+Notes:
+  Sportswear brand. Requesting JHB warehouse slot near existing ADI hub.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Price adjustment request submitted.
+Item: Monogram Trench Coat
+======================
+Item ID:       OUT-BRN-GUC-01
+Brand:         Gucci
+Current Price: R35,000.00
+New Price:     R38,500.00
+Change:        R3,500.00 increase
+
+Reason:
+  Annual Gucci price revision. All flagship items affected globally.
+======================
+ACTION REQUIRED: Approve or Reject price change

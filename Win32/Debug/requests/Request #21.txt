@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: H&M
+======================
+Brand Name:     H&M
+Brand ID:       HNM
+Contact Email:  logistics@hm.com
+Requested City: To be determined
+
+Notes:
+  Fast fashion. 500+ new SKUs per season. Requesting Cape Town warehouse slot.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

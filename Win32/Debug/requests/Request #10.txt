@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Brandon Ellis.
+Application type: Dispatcher
+======================
+Name:         Brandon
+Surname:      Ellis
+City:         Port Elizabeth
+Role:         Dispatcher
+
+Past experience:
+  7 years long-haul trucking. Recently transitioned to urban logistics.
+======================
+Suggested Username: bra_ellis
+Suggested Password: Br@nd0nEl!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

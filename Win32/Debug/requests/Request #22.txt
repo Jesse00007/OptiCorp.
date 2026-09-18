@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Woolworths SA
+======================
+Brand Name:     Woolworths SA
+Brand ID:       WLW
+Contact Email:  supply@woolworths.co.za
+Requested City: To be determined
+
+Notes:
+  Premium local brand. Looking to expand digital wardrobe integration.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

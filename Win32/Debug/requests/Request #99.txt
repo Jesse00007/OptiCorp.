@@ -1,0 +1,24 @@
+Request incoming
+======================
+Consumer role upgrade request.
+User: m_fourie
+======================
+Username:     m_fourie
+Full Name:    Michelle Fourie
+UserID:       CON-107-PTA
+City:         Pretoria
+Current Role: Consumer
+Balance:      R6700.00
+
+Request:
+  Consumer has submitted application to become
+  a Brand Ambassador (upgraded consumer tier).
+  She has made 12 purchases totalling R24,800.
+  Requesting access to bulk order discounts.
+
+Note:
+  No 'Brand Ambassador' role currently exists
+  in the system. Admin must decide whether to
+  create this tier or handle manually.
+======================
+ACTION REQUIRED: Approve role change or Decline request

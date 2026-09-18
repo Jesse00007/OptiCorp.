@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Superbalist
+======================
+Brand Name:     Superbalist
+Brand ID:       SUP
+Contact Email:  ops@superbalist.com
+Requested City: To be determined
+
+Notes:
+  Online-first SA fashion retailer. Interested in last-mile delivery services.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

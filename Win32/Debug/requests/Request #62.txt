@@ -1,0 +1,20 @@
+Request incoming
+======================
+New inventory item submission.
+Brand: Vans (VNS)
+======================
+Item ID:         SHU-RED-VNS-04
+Item Name:       Era Low Tops
+Category:        Shoes
+Color Family:    Red
+Price:           R999.00
+Starting Stock:  75
+Weight (kg):     0.7
+Volume (L):      4
+Warmth Rating:   3/10
+Formality Score: 2/10
+
+Notes:
+  New colourway release for Spring 2026 range.
+======================
+ACTION REQUIRED: Add item to tblInventory or Decline submission

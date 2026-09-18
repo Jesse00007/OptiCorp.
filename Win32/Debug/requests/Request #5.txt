@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Amahle Zulu.
+Application type: Dispatcher
+======================
+Name:         Amahle
+Surname:      Zulu
+City:         Johannesburg
+Role:         Dispatcher
+
+Past experience:
+  Recent graduate in Supply Chain Management (UNISA). No prior experience.
+======================
+Suggested Username: ama_zulu
+Suggested Password: Am@hleZ_99
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

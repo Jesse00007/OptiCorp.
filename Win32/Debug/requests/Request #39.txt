@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Silk Floral Button-Up
+======================
+Item ID:          TOP-PNK-GUC-01
+Brand:            Gucci (GUC)
+Current Stock:    5
+Requested Stock:  50
+Unit Price:       R8,500.00
+
+Reason:
+  Low stock on premium item. Summer collection driving increased demand.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

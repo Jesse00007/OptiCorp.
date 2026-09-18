@@ -1,0 +1,22 @@
+Request incoming
+======================
+Fleet capacity alert: Dispatch overload risk.
+======================
+Current Fleet Status:
+  VEH-BIK-01  - Available
+  VEH-BIK-02  - On Route
+  VEH-VAN-01  - Available
+  VEH-VAN-02  - Maintenance
+  VEH-TRK-01  - Available
+  VEH-TRK-02  - Available
+  VEH-HVR-01  - On Route
+
+Pending Orders: 15 orders awaiting dispatch
+Available Vehicles: 4
+
+Risk:
+  Current available fleet may be insufficient
+  to dispatch all pending orders in one run.
+  3 vehicles are unavailable (Maintenance/Route).
+======================
+ACTION REQUIRED: Assess and plan dispatch schedule

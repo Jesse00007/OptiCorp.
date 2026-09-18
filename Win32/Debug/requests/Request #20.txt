@@ -1,0 +1,17 @@
+Request incoming
+======================
+Duplicate username conflict detected.
+======================
+New registration attempt:
+  Desired Username: t_mokoena
+  Name:             Thandeka Mokoena
+  City:             Johannesburg
+
+Conflict:
+  Username 't_mokoena' already taken by
+  Tshepo Mokoena (CON-104-JHB).
+
+Suggested alternatives:
+  t_mokoena2 / tan_mokoena / thandeka_m
+======================
+ACTION REQUIRED: Assign alternate username and complete registration

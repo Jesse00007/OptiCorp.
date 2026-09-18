@@ -1,0 +1,17 @@
+Request incoming
+======================
+System flag: Inactive consumer account.
+User: z.abrahams
+======================
+Username:     z.abrahams
+Full Name:    Zane Abrahams
+UserID:       CON-106-CPT
+City:         Cape Town
+Balance:      R50.00
+Last Active:  01/15/2026
+
+Reason for flag:
+  No activity in 56 days. Balance critically low.
+  Cannot afford any current inventory items.
+======================
+ACTION REQUIRED: Freeze account or Dismiss flag

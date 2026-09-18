@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Calvin Klein
+======================
+Brand Name:     Calvin Klein
+Brand ID:       CLK
+Contact Email:  distribution@ck.com
+Requested City: To be determined
+
+Notes:
+  High-formality brand. Focused on B2C consumer outfit scoring integration.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

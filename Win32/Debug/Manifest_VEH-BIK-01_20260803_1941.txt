@@ -1,0 +1,30 @@
+=================================================
+      OPTICORP OFFICIAL DISPATCH MANIFEST
+=================================================
+Vehicle    : VEH-BIK-01
+Date       : 2026/08/03 19:41
+Origin     : WH-OPT-HQ (National Hub)
+Total load : 1,70 kg / 12,00 l
+Distance   : 1920,6 km
+-------------------------------------------------
+
+STOP 1: WH-URB-01
+   ORD-2026-26  x4  Trail Running T-Shirt  (Bloemfontein)
+
+STOP 2: WH-TIM-01
+   *** STOCK RUN - no deliveries at this depot ***
+   Collect 50 units of brand TIM
+
+STOP 3: WH-PLO-01
+   *** STOCK RUN - no deliveries at this depot ***
+   Collect 50 units of brand PLO
+
+STOP 4: WH-NFB-01
+   ORD-2026-04  x1  Stan Smith Classics  (Nelspruit)
+
+STOP 5: WH-ZAR-01
+   ORD-2026-15  x2  Graphic Gym Tank  (Cape Town)
+
+-------------------------------------------------
+Orders on board : 3
+=================================================

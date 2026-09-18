@@ -1,0 +1,17 @@
+Request incoming
+======================
+Consumer budget depleted alert.
+User: l_phiri
+======================
+Username:     l_phiri
+Full Name:    Lebo Phiri
+UserID:       CON-109-NLP
+City:         Nelspruit
+Balance:      R0.00
+Pending Orders: ORD-2026-04 (R1899.00), ORD-2026-14 (R750.00)
+
+Issue:
+  Consumer has 2 pending orders but R0.00 budget.
+  Orders cannot be fulfilled as-is.
+======================
+ACTION REQUIRED: Cancel pending orders or contact consumer

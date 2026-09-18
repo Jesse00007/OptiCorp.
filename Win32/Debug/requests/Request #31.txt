@@ -1,0 +1,14 @@
+Request incoming
+======================
+New brand partnership request received.
+Brand: Reebok
+======================
+Brand Name:     Reebok
+Brand ID:       RBK
+Contact Email:  logistics@reebok.com
+Requested City: To be determined
+
+Notes:
+  Sportswear relaunch. Targeting 18-25 consumer segment.
+======================
+ACTION REQUIRED: Add brand to tblBrands or Decline request

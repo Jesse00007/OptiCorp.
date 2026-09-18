@@ -1,0 +1,15 @@
+Request incoming
+======================
+Price adjustment request submitted.
+Item: Stan Smith Classics
+======================
+Item ID:       SHU-WHT-ADI-01
+Brand:         Adidas
+Current Price: R1,899.00
+New Price:     R1,699.00
+Change:        R200.00 decrease
+
+Reason:
+  Promotional price reduction. Adidas SA clearance drive for Q1 2026.
+======================
+ACTION REQUIRED: Approve or Reject price change

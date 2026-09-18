@@ -1,0 +1,15 @@
+Request incoming
+======================
+Price adjustment request submitted.
+Item: Retro Track Jacket
+======================
+Item ID:       TOP-YLW-ADI-01
+Brand:         Adidas
+Current Price: R1,299.00
+New Price:     R1,149.00
+Change:        R150.00 decrease
+
+Reason:
+  End-of-line item. Adidas requesting 12% discount to clear remaining stock.
+======================
+ACTION REQUIRED: Approve or Reject price change

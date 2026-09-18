@@ -1,0 +1,23 @@
+Request incoming
+======================
+System integrity alert: Orphaned order detected.
+======================
+Order ID:   ORD-2026-07
+Customer:   d.naidoo (CON-108-DBN)
+Item:       TOP-WHT-TIM-01 (Heavyweight Work Tee)
+Vehicle:    VEH-TRK-02
+Status:     Delivered
+Quantity:   15
+Order Date: 10/02/2026
+
+Issue:
+  Order ORD-2026-07 has Quantity = 15 but
+  tblInventory shows TOP-WHT-TIM-01 stock was
+  only reduced by 1. Possible data integrity error.
+
+  Additionally, VEH-TRK-02 (Max Weight: 2500kg)
+  was assigned despite 15 units of a 0.3kg item
+  being well within scooter capacity.
+  Vehicle assignment may be suboptimal.
+======================
+ACTION REQUIRED: Verify stock deduction and reassess vehicle logic

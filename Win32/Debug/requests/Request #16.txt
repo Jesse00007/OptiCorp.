@@ -1,0 +1,17 @@
+Request incoming
+======================
+System flag: Inactive consumer account.
+User: k_modise_x
+======================
+Username:     k_modise_x
+Full Name:    Kagiso Modise
+UserID:       CON-102-PTA
+City:         Pretoria
+Balance:      R150.00
+Last Active:  03/01/2026
+
+Reason for flag:
+  No login or purchases detected in 48 days.
+  Account balance near minimum threshold.
+======================
+ACTION REQUIRED: Freeze account or Dismiss flag

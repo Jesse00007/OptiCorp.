@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-VAN-01
+======================
+Vehicle ID:       VEH-VAN-01
+Registration:     ND 445-882
+Vehicle Type:     Sprinter Panel Van
+Current Status:   Available
+Requested Status: On Route
+
+Reason:
+  Dispatcher dsp_dbn requesting dispatch for Durban 2-stop route (ORD-2026-13, 21).
+======================
+ACTION REQUIRED: Approve status change or Reject request

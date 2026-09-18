@@ -1,0 +1,17 @@
+Request incoming
+======================
+New warehouse registration request.
+Brand: Woolworths SA (WLW)
+======================
+Warehouse Name:   WLW JHB Northgate Depot
+Linked Brand:     Woolworths SA (WLW)
+City:             Johannesburg
+X Coordinate:     505
+Y Coordinate:     505
+
+Notes:
+  Central JHB location. Close to OPT hub.
+  Warehouse becomes active upon brand approval.
+  Coordinates will be added to Dijkstra routing grid.
+======================
+ACTION REQUIRED: Register warehouse or Decline request

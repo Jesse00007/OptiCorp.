@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Ntombi Khumalo.
+Application type: Dispatcher
+======================
+Name:         Ntombi
+Surname:      Khumalo
+City:         Durban
+Role:         Dispatcher
+
+Past experience:
+  1 year logistics intern at Transnet. Currently completing NQF Level 5.
+======================
+Suggested Username: nto_khumalo
+Suggested Password: Nt0mb!Khm@
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-TRK-01
+======================
+Vehicle ID:       VEH-TRK-01
+Registration:     GP 334-111
+Vehicle Type:     Medium Box Truck
+Current Status:   Available
+Requested Status: Maintenance
+
+Reason:
+  Annual roadworthy test due. Vehicle must be removed from active fleet until certificate renewed.
+======================
+ACTION REQUIRED: Approve status change or Reject request

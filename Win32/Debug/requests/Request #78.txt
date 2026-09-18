@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-08
+======================
+Order ID:     ORD-2026-08
+Customer:     t_mokoena (CON-104-JHB)
+Item:         Old Skool Skate Shoes (SHU-GRN-VNS-01)
+Order Date:   21/02/2026
+Status:       Pending
+
+Issue:
+  Quantity 2 order stuck in Pending. Consumer has sufficient budget. No vehicle assigned.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

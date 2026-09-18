@@ -1,0 +1,17 @@
+Request incoming
+======================
+Look over application of Chantal du Plessis.
+Application type: Dispatcher
+======================
+Name:         Chantal
+Surname:      du Plessis
+City:         Pretoria
+Role:         Dispatcher
+
+Past experience:
+  Ex-SAPS officer transitioning to logistics. Strong discipline and time management.
+======================
+Suggested Username: cha_duplessis
+Suggested Password: Ch@ntal#Dp!
+======================
+ACTION REQUIRED: Approve (create dispatcher account) or Reject application

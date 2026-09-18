@@ -1,0 +1,15 @@
+Request incoming
+======================
+Vehicle status change request.
+Vehicle: VEH-HVR-01
+======================
+Vehicle ID:       VEH-HVR-01
+Registration:     GP 555-888
+Vehicle Type:     Heavy Freight Rig
+Current Status:   Maintenance
+Requested Status: Available
+
+Reason:
+  Post-inspection report complete. Engine fault was sensor-related, not mechanical. Cleared for service.
+======================
+ACTION REQUIRED: Approve status change or Reject request

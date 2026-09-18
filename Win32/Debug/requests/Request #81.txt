@@ -1,0 +1,15 @@
+Request incoming
+======================
+Order review request submitted.
+Order ID: ORD-2026-10
+======================
+Order ID:     ORD-2026-10
+Customer:     chloe.v (CON-103-BFN)
+Item:         Tailored Linen Trousers (BOT-WHT-GUC-01)
+Order Date:   21/02/2026
+Status:       Pending
+
+Issue:
+  Quantity 4 order. High-value consumer with R12,500 balance. Requesting priority handling.
+======================
+ACTION REQUIRED: Investigate order or Escalate to dispatcher

@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Earthkeepers Loafers
+======================
+Item ID:          SHU-BRN-TIM-02
+Brand:            Timberland (TIM)
+Current Stock:    8
+Requested Stock:  100
+Unit Price:       R2,100.00
+
+Reason:
+  Low stock. Popular formal-casual option. Restock before Autumn season.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss

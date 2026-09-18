@@ -1,0 +1,15 @@
+Request incoming
+======================
+Restock request submitted.
+Item: Sk8-Hi High Tops
+======================
+Item ID:          SHU-YLW-VNS-03
+Brand:            Vans (VNS)
+Current Stock:    22
+Requested Stock:  150
+Unit Price:       R1,299.00
+
+Reason:
+  Youth market demand spike. Social media trend detected for this colourway.
+======================
+ACTION REQUIRED: Approve restock (update Quantity_Stock) or Dismiss
